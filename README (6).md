@@ -8,7 +8,7 @@ Welcome to the SMS Spam Classification project "SpamSniper"! This web applicatio
 
 - Streamlit Deployment: The application is deployed using Streamlit, providing an intuitive and interactive user interface for seamless interaction.
 
-**Website Link** - https://spam-sniper.streamlit.app/
+**Website Link** - https://spam-sniper1.streamlit.app/
 
 **Dataset From** - https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
